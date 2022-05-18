@@ -30,16 +30,15 @@ In the Welcome Page, the person needs to select whether he is a User or an Admin
 >> Features for Admin/Owner :
 - Admin can add or update the Laundry status of the User using the User's Member Id.
 - Admin can also manage all the staff members and also the users.
+ ![image](https://user-images.githubusercontent.com/98415036/168944156-d5bcb042-87d0-4008-8f6d-27e9a549e49a.png)
 - To create a fresh entry of the clothes, Admin needs to go in the "Register Item" tab and select the clothes and member id of the user. 
 (Note : MemberId of the users are displayed in the members table of the Database)
+![image](https://user-images.githubusercontent.com/98415036/168943913-fb6c2e1e-b134-40a5-8c28-7403e8b1c7f2.png)
+
 - After the completion of the Washing of clothes, the Admin can proceed to list the clothes to Checkout so that the user comes to know that his clothes are ready to be delivered.
 Admin Login Id : admin
 Admin Login Password : admin
 
-![image](https://user-images.githubusercontent.com/98415036/168944156-d5bcb042-87d0-4008-8f6d-27e9a549e49a.png)
-
-
-![image](https://user-images.githubusercontent.com/98415036/168943913-fb6c2e1e-b134-40a5-8c28-7403e8b1c7f2.png)
 
 ![image](https://user-images.githubusercontent.com/98415036/168944393-6416a498-50ba-45c3-9022-468ae6291a11.png)
 
