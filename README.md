@@ -2,6 +2,8 @@
 It is a Laundry Management System, named as "MIT LAUNDRY", developed basically using PHP,CSS,HTML,MYSQL.
 It is made for both, Admin and Users.
 
+** Default Admin Id and Password : admin
+
 >> Why this System is needed?
 - This Laundry Management System provides the Dry Cleaning and Laundry users to track the status of thier given clothes in a real time.
 
