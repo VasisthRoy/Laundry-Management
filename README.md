@@ -43,6 +43,8 @@ In the Welcome Page, the person needs to select whether he is a User or an Admin
 - They can also update the status of the clothes for the users to check at their end.
 
 
+>> List of all Tables present in the Database :
+![image](https://user-images.githubusercontent.com/98415036/168947024-2d04ff32-4883-4165-9006-823c23e1ea4f.png)
 
 
 
